@@ -1,6 +1,5 @@
 # Basic Portfolio Website
 ## _Texting with bot like experience (Whatsapp like interface)_
--[Visit Link](https://shikha-code36.github.io/shikhapandey.github.io/)
 
 ## Technologies Used
 
