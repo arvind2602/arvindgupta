@@ -165,11 +165,14 @@ nav{
 
 /* help menu bold words color  */
 
-.sk .bold{
+.sk .bold {
     color: rgba(219, 154, 33, 0.822);
 }
 
-
+#new{
+    color: rgba(219, 154, 33, 0.822);
+    font-weight: bold;
+}
 /* resume thumbnail in received class*/
 .resumeThumbnail{
     width: 100%;
