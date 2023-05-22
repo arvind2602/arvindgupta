@@ -77,7 +77,7 @@ function waitAndResponce(inputText) {
     case "intro":
       setTimeout(() => {
         sendTextMessage(
-          "Hello there 👋🏻,<br><br>My name is <span class='bold'><a class='alink'>Arvind Gupta</a>.</span><br><br>I am a  <span class='bold'>aspiring Software Engineer</span><br><br>I am eager to hear about potential career opportunities, so I would be pleased to chat about job openings in the engineering sphere.<br><br>Send <span class='bold'>'help'</span> to know more about me.<br>"
+          "Hello there 👋🏻,<br><br>My name is <span class='bold'><a class='alink'>Arvind Gupta😊</a>.</span><br><br>I am a  <span class='bold'>aspiring Software Engineer 💻</span><br><br>I am eager to hear about potential career opportunities, so I would be pleased to chat about job openings in the engineering sphere. 🚀<br><br>Send <span class='bold'>'help'</span> to know more about me.<br>"
         );
       }, 2000);
       break;
@@ -91,12 +91,12 @@ function waitAndResponce(inputText) {
       break;
     case "skills":
       sendTextMessage(
-        "<span class='sk'>I am currently pursuing BE in Information Technology<br><br>I can comfortably write code in following languages :<br><span class='bold'>Python<br>C/C++<br>CSS<br>HTML<br>Javascript<br>SQL<br></span><br>I've experiance with following frameworks :<span class='bold'><br>Flask<br>Django<br>NodeJs<br>ReactJs<br>Bootstrap</span><br><br>I have experience with <br><span class='bold'>AWS services<br>Docker<br>Linux<br>Figma<br></span><br>Favourite IDE:<span class='bold'>VSCode</span></span>"
+        "<span class='sk'>I am currently pursuing BE in Information Technology<br><br>I can comfortably write code in following languages :<br><span class='bold'>Python<br>C/C++<br>CSS<br>HTML<br>Javascript<br>SQL<br></span><br>I've experiance with following frameworks :<span class='bold'><br>Flask<br>Django<br>NodeJs<br>ReactJs<br>NumPy<br>Pandas<br>Matplotlib<br>Bootstrap</span><br><br>I have experience with <br><span class='bold'>AWS services<br>Docker<br>Linux<br>Figma<br></span><br>Favourite IDE:<span class='bold'>VSCode</span></span>"
       );
       break;
     case "experiences":
       sendTextMessage(
-        "<span class='sk'><span id='new'>CodeClause | Web developer | Intern Remote from April 2023</span><br><br> Directed and shaped a URL Shortener Website, using HTML5, CSS3 and ReactJS.Developed a blogging Website with Django, and ReactJs.</span><br><br><span class='sk'><span id='new'>Sort and Literary Club | Technical Head: From May 2022 </span><br><br>Managing a team of 4 developers and ensuring the successful completion of technical operations of the club.Developed the official website of <a href='https://sort.tcetmumbai.in/ target='blank' id='new'>clubs website</a> using HTML, CSS3 and JS</span>"
+        "<span class='sk'><span id='new'>👨‍💻CodeClause | Web developer | Intern Remote from April 2023👨‍💻</span><br><br> Directed and shaped a URL Shortener Website, using HTML5, CSS3 and ReactJS.Developed a blogging Website with Django, and ReactJs.</span><br><br><span class='sk'><span id='new'>Sort and Literary Club | Technical Head: From May 2022 </span><br><br>Managing a team of 4 developers and ensuring the successful completion of technical operations of the club🤝💻.Developed the official website of <a href='https://sort.tcetmumbai.in/ target='blank' id='new'>clubs website</a> using HTML, CSS3 and JS</span>"
       );
       break;
     case "achievements":
