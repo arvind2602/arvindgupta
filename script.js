@@ -101,7 +101,7 @@ function waitAndResponce(inputText) {
       break;
     case "achievements":
       sendTextMessage(
-        "I have won Smart India Hackathon 2022 .I am also UNESCO Indian Africa International Hackathon Finalist"
+        "I emerged victorious 🥇 in the esteemed Smart India Hackathon of 2022! 🎉✨ My team and I put our minds to work, solving complex challenges and crafting innovative solutions. 💪💡 <br> <br>  🌍🌍 I also had the honor of being a finalist 🏆 in the UNESCO Indian Africa International Hackathon, where talented minds from 25 different countries came together to tackle global issues. 🌎💪"
       );
       break;
 
