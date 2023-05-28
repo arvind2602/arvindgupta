@@ -1,7 +1,7 @@
 # Basic Portfolio Website
 ## _Texting with bot like experience (Whatsapp like interface)_
 
-Link for the website : https://arvind2602.github.io/arvindgupta/
+Link for the website : http://chat.arvindgupta.tech/
 
 ## Technologies Used
 
